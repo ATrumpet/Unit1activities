@@ -1,0 +1,20 @@
+{color:#000000;
+
+}
+
+.LinktoAbout:hover{ 
+    Background: #000000;
+    Color: yellow;
+
+}
+
+.bannerimg{
+    width: 100%;
+}
+
+/* About Page */
+
+.aboutcontent{
+    width: 50%;
+    display: inline-block;
+}
